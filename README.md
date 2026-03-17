@@ -1,4 +1,4 @@
-# 🧾 Barkod Okuyucu (COM to Keyboard)
+# 🧾 Barcode Reader (COM to Keyboard)
 
 ## 🇬🇧 English
 
@@ -23,7 +23,7 @@ Windows desktop application that reads barcode data from a serial port (COM) and
 ### 🧱 Project Structure
 
 ```text
-Barkod Okuyucu/
+Barcode Reader/
 ├─ COM2Keyboard.py
 ├─ requirements.txt
 ├─ README.md
