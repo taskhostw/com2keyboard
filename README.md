@@ -41,7 +41,7 @@ Barkod Okuyucu/
 
 ```bash
 git clone https://github.com/taskhostw/com2keyboard.git
-cd "Barkod Okuyucu"
+cd "com2keyboard"
 ```
 
 1) Create virtual environment (recommended)
@@ -158,7 +158,7 @@ Barkod Okuyucu/
 
 ```bash
 git clone https://github.com/taskhostw/com2keyboard.git
-cd "Barkod Okuyucu"
+cd "com2keyboard"
 ```
 
 1) Sanal ortam oluştur (önerilir)
